@@ -82,10 +82,3 @@ The processed outputs form multi-temporal data cubes used for deep learning–ba
 | **Suhruth** | Model validation and benchmarking |
 | **Sirivennela** | Label engineering and methodology documentation |
 
----
-
-## 🧾 License
-MIT License © 2025  
-Developed for the **Multi-Temporal SAR–Optical Fusion Project**, InnovAI Research Program.
-
----
