@@ -9,3 +9,5 @@ pyproj
 shapely
 fiona
 branca
+xarray
+rioxarray
