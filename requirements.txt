@@ -5,3 +5,7 @@ geopandas
 folium
 numpy
 pandas
+pyproj
+shapely
+fiona
+branca
