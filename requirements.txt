@@ -11,3 +11,4 @@ fiona
 branca
 xarray
 rioxarray
+localtileserver
